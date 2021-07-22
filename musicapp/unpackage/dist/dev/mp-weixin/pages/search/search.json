@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "musicchead": "/components/musicchead/musicchead"
+  }
+}
